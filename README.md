@@ -5,7 +5,7 @@ Jupyter notebook that trains and evaluates a supervised machine learning model t
 ## Contents
 
 - `heart_disease_prediction.ipynb` – full exploration, training, evaluation.
-- `heart-disease.xlsx` (raw data – remove if license forbids redistribution).
+- `heart-disease.xlsx`
 
 ## Quick Start
 
